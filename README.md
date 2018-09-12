@@ -1,14 +1,15 @@
 ## frontend-nanodegree-arcade-game
-
+<hr>
 
 ### Table of Contents
 
 * [Introduction](#introduction)
 * [Functionality](#functionality)
 * [Dependencies](#dependencies)
-<hr>
+
 
 ### Introduction
+<hr>
 
 In this project, using object-oriented programming skills, I have recreated a classic arcade game.
 
@@ -18,6 +19,7 @@ I was provided with visual assets and a game loop engine tools. Using these tool
 
 
 ### Functionality
+<hr>
 
 In this game you have a Player and Enemies (bugs). The goal of the player is to reach the water, without colliding into any one of the enemies.
 
@@ -30,6 +32,7 @@ In this game you have a Player and Enemies (bugs). The goal of the player is to 
 
 
 ### Dependencies
+<hr>
 
 * http://blog.sklambert.com/html5-canvas-game-2d-collision-detection#d-collision-detection
 * https://www.diigo.com/outliner/fj3m65/Udacity-Classic-Arcade-Game-Project-(project-%233)?key=al7ek43dms
