@@ -4,7 +4,7 @@
 ## Table of Contents
 
 * [Introduction](#introduction)
-* [Basic Functionality](#basicfunctionality)
+* [Functionality](#functionality)
 * [Dependencies](#dependencies)
 <hr>
 
