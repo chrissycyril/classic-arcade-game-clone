@@ -1,22 +1,23 @@
-# frontend-nanodegree-arcade-game
-<hr>
+## frontend-nanodegree-arcade-game
 
-## Table of Contents
+
+### Table of Contents
 
 * [Introduction](#introduction)
 * [Functionality](#functionality)
 * [Dependencies](#dependencies)
 <hr>
 
-## Introduction
+### Introduction
+
 In this project, using object-oriented programming skills, I have recreated a classic arcade game.
 
 I was provided with visual assets and a game loop engine tools. Using these tools I have added a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.
 
 <br>
-<hr>
 
-## Functionality
+
+### Functionality
 
 In this game you have a Player and Enemies (bugs). The goal of the player is to reach the water, without colliding into any one of the enemies.
 
@@ -26,9 +27,9 @@ In this game you have a Player and Enemies (bugs). The goal of the player is to 
 * Once the player reaches the water (i.e., the top of the game board), the game is won
 
 <br>
-<hr>
 
-## Dependencies
+
+### Dependencies
 
 * http://blog.sklambert.com/html5-canvas-game-2d-collision-detection#d-collision-detection
 * https://www.diigo.com/outliner/fj3m65/Udacity-Classic-Arcade-Game-Project-(project-%233)?key=al7ek43dms
