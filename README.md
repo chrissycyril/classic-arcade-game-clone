@@ -4,7 +4,7 @@
 ## Table of Contents
 
 * [Introduction](#introduction)
-* [Basic Functionality](#basic functionality)
+* [Basic Functionality](#functionality)
 * [Dependencies](#dependencies)
 <hr>
 
@@ -16,7 +16,7 @@ I was provided with visual assets and a game loop engine tools. Using these tool
 <br>
 <hr>
 
-## Basic Functionality
+## Functionality
 
 In this game you have a Player and Enemies (bugs). The goal of the player is to reach the water, without colliding into any one of the enemies.
 
