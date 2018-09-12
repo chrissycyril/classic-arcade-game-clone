@@ -1,7 +1,8 @@
 ## frontend-nanodegree-arcade-game
-<hr>
+
 
 ### Table of Contents
+<hr>
 
 * [Introduction](#introduction)
 * [Functionality](#functionality)
